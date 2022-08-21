@@ -1,24 +1,18 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Esta es una aplicacion echa en Ruby on Rails 7, de un sistema de inventario con movimientos, donde podemos agregar los movimientos de entrada y salida de los productos donde podemos exportar a excel y todo el CRUD de la aplicacion.
 
-Things you may want to cover:
+
 
 * Ruby version
 
-* System dependencies
+````
+ruby "3.0.3"
+````
+*Rails Version
+````
+"rails", "~> 7.0.3"
+````
 
-* Configuration
 
-* Database creation
 
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
